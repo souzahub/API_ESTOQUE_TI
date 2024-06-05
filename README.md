@@ -1,4 +1,3 @@
-# API ETOQUE TI
 # APi Criada pasa consumir internamente com projetos privado ( como teste a principio)
 ---
 ## Olá! Bem-vindo(a) ao meu repositório.
